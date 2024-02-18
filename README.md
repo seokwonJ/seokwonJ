@@ -12,9 +12,9 @@
 # 💪Skills
 ### Platforms & Languages
 
-![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=White)
-![C#](https://img.shields.io/badge/csharp-512BD4.svg?&style=for-the-badge&logo=Csharp&logoColor=White)
-![C++](https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=White)
+![C](https://img.shields.io/badge/c-E60505.svg?&style=for-the-badge&logo=c&logoColor=Red)
+![C#](https://img.shields.io/badge/c%23-512BD4.svg?&style=for-the-badge&logo=Csharp&logoColor=White)
+![C++](https://img.shields.io/badge/c\+\+-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=White)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=PythonlogoColor=White)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=White)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?&style=for-the-badge&logo=Unreal%20Engine&logoColor=White)
